@@ -1,4 +1,4 @@
-package com.example.samecityloading.util;
+package com.example.samecityloading.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
